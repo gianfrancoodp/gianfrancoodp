@@ -11,7 +11,7 @@ my commitment to the professional growth
 of my career, with the aim of making 
 significant contributions in my field of work.</h3>
 
-# LinkedIn: <a href="https://linkedin.com/in/gianfrancoodp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gianfrancoodp" height="20" width="20" /></a>
+# LinkedIn: <a href="https://www.linkedin.com/in/gianfrancortega/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gianfrancoodp" height="20" width="20" /></a>
 <br>
 
 ## 💻 Tech Stack:
